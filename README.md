@@ -4,6 +4,7 @@
 
 | Audit Start | Audit End  | Report                                                                      | Conducted By | Tech                                                             | C   | H   | M   | L   | I   | G   |
 | ----------- | ---------- | --------------------------------------------------------------------------- | ------------ | ---------------------------------------------------------------- | --- | --- | --- | --- | --- | --- |
+| 2026-01-30  | 2026-02-03 | [Ventuals](./reports/2026-02-03-ventuals-protocol.pdf)                      | Cantina      | Bug Bounty, ERC-4626, LST, Cross-chain, HyperLiquid, EVM         | n/a | 0   | 1   | 0   | 0   | 0   |
 | 2026-01-19  | 2026-01-23 | [Open Cover Insured vaults](./reports/2026-01-24-open-cover-protocol.pdf)   | Sherlock     | ERC-4626, ERC-7540, ERC-7575, Insurance, Premium, Yield Farming  | n/a | 2   | 2   | 0   | 0   | 0   |
 | 2026-01-05  | 2026-01-17 | [Flying Tulip](./reports/2026-01-17-flying-tulip-sherlock.pdf)              | Sherlock     | NFT, ERC20, Solidity, ERC-7265, PUT, Yield Farming, AaveStrategy | n/a | 0   | 3   | 3   | 1   | 0   |
 | 2025-12-20  | 2025-12-20 | [MultiSig Timelock](./reports/2025-12-22-multisig-timelock-codehawks.pdf)   | CodeHawks    | MultiSig Wallet, Timelock, Governnace, Solidity                  | n/a | 2   | 2   | 3   | 0   | 0   |
@@ -19,6 +20,12 @@
 | 2025-07-08  | 2025-07-10 | [Puppy Raffle](./reports/2025-07-10-puppyRaffle.pdf)                        | Cyfrin       | Lottery, NFT, Solidity                                           | n/a | 3   | 3   | 1   | 7   | 2   |
 | 2025-07-07  | 2025-07-7  | [Order Book](./reports/2025-07-07-orderBook.pdf)                            | CodeHawks    | Trading, Lending, Borrowing, Solidity                            | n/a | 2   | 3   | 3   | 1   | 0   |
 | 2025-06-27  | 2025-06-27 | [Password Store](./reports/2025-06-27-passwordStore-report.pdf)             | Cyfrin       | Password Manager, Privacy, Solidity                              | n/a | 2   | 0   | 0   | 1   | 0   |
+
+## Cantina
+
+| Audit Start | Audit End  | Report                                                 | Conducted By | Tech                                                     | C   | H   | M   | L   | I   | G   |
+| ----------- | ---------- | ------------------------------------------------------ | ------------ | -------------------------------------------------------- | --- | --- | --- | --- | --- | --- |
+| 2026-01-30  | 2026-02-03 | [Ventuals](./reports/2026-02-03-ventuals-protocol.pdf) | Cantina      | Bug Bounty, ERC-4626, LST, Cross-chain, HyperLiquid, EVM | n/a | 0   | 1   | 0   | 0   | 0   |
 
 ## Code4rena
 
